@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 56px;
+    background-color: aliceblue;
+    color: #054949;
+}
+
+h1 {
+    text-align: center;
+    background-color: #89d8d8;
+    font-size: 40px;
+}
+
+.center {
+    text-align: center;
+    color: #061761;
+    background-color: #89d8d8;
+    border-bottom: 3px solid;
+    padding: 10px;
+    margin-top: 48px;
+    margin-bottom: 12px;
+}
+
+h2 {
+    color: #061761;
+    background-color: #89d8d8;
+    border-bottom: 3px solid;
+    padding: 10px;
+    margin-top: 48px;
+    margin-bottom: 12px;
+}
