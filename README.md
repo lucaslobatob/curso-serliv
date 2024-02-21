@@ -4,7 +4,7 @@ Este repositório contém uma coleção de projetos desenvolvidos por mim durant
 
 ## Sobre o Curso
 
-O Curso Web Frontend da Serliv abrangente as principais tecnologias para se tornar um programador web front-end: HTML, CSS e Javascript.
+O Curso Web Frontend da Serliv abrange as principais tecnologias para se tornar um programador web front-end: HTML, CSS e Javascript.
 
 # Atualizações Futuras
 
